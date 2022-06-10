@@ -1,0 +1,35 @@
+﻿  ALIMENT.cpp
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\ALIMENT.cpp(7,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\ALIMENT.cpp(8,35): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\ALIMENT.cpp(9,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\ALIMENT.cpp(10,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\ALIMENT.cpp(11,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\ALIMENT.cpp(12,37): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\ALIMENT.cpp(13,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\ALIMENT.cpp(14,38): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  FoodTracker.cpp
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\USER.h(81,1): warning C4305: '=': truncation from 'int' to 'bool'
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\MEAL.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\MENU.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\MENU.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\PRODUS.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MEAL.cpp
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\MEAL.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\MENU.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\MENU.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\PRODUS.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MENU.cpp
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\MENU.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\MENU.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\PRODUS.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PRODUS.cpp
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\PRODUS.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PROGRES.cpp
+  Source.cpp
+  USER.cpp
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\USER.h(81,1): warning C4305: '=': truncation from 'int' to 'bool'
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\USER.cpp(74,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\USER.cpp(75,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Victor\Desktop\FoodTracker\FoodTracker\FoodTracker\USER.cpp(76,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  FoodTracker.vcxproj -> C:\Users\Victor\Desktop\FoodTracker\FoodTracker\Debug\FoodTracker.exe
